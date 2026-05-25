@@ -1,4 +1,4 @@
-print('Hello Git')
+print("Hello from GitHub!")
 print('This is my second change')
 
 def login():
