@@ -12,3 +12,5 @@ def logout():
 logout()
 
 print("This change is from GitHub!")
+
+print("Fetched from GitHub!")
