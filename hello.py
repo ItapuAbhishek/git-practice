@@ -10,3 +10,5 @@ def logout():
     print("User logged out!")
 
 logout()
+
+print("This change is from GitHub!")
