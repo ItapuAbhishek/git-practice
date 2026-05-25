@@ -5,3 +5,8 @@ def login():
     print("User logged in!")
 
 login()
+
+def logout():
+    print("User logged out!")
+
+logout()
